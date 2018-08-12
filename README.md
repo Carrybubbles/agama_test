@@ -1,8 +1,9 @@
 # agama_test
 
-##Configuration
-	configure pom file arguments
-
+## Configuration
+```
+configure pom file arguments
+```
 ## Launch
 
 ```
